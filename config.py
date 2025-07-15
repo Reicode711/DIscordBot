@@ -6,7 +6,7 @@ FFMPEG_PATH = FFMPEG_PATH = "C:/Users/reito/Desktop/Share/01_program/DIscordBOT/
 VOICEVOX_PATH = r"C:\Users\reito\Desktop\Share\01_program\DIscordBOT\windows-cpu\run.exe"
 
 # 依存
-DISCORD_TOKEN = "MTM4OTYxNDk5NDEzNTU4MDcwMw.GhwGt5.3kFL_Pui7DKCLR0juyl1pLyvbrrLJD6l6IQy5I"
+DISCORD_TOKEN = "***************"
 COGS_PATH = "cogs/*.py"
 CHANNEL_ID = 1391828115139072073
 
